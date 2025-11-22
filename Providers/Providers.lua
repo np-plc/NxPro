@@ -34,6 +34,16 @@ local module = {
 		["NAme"] = "QUANTUM", -- Wilson2
 		["Logo"] = "rbxassetid://140288486669155"
 	},
+
+	["4150"] = {
+		["NAme"] = "SPARK", -- Spark1
+		["Logo"] = "rbxassetid://102942390357814"
+	},
+
+	["4151"] = {
+		["NAme"] = "SPARK", -- Spark2
+		["Logo"] = "rbxassetid://86505758864124"
+	},
 	
 }
 
