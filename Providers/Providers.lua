@@ -22,17 +22,17 @@ local module = {
 
 	["5487"] = {
 		["NAme"] = "QUANTUM", -- Quantum
-		["Logo"] = "rbxassetid://129583102212903"
+		["Logo"] = "rbxassetid://102900214785910"
 	},
 
 	["5449"] = {
 		["NAme"] = "QUANTUM", -- Wilson1
-		["Logo"] = "rbxassetid://134410789987815"
+		["Logo"] = "rbxassetid://138013898419454"
 	},
 
 	["5448"] = {
 		["NAme"] = "QUANTUM", -- Wilson2
-		["Logo"] = "rbxassetid://98502374532316"
+		["Logo"] = "rbxassetid://140288486669155"
 	},
 	
 }
