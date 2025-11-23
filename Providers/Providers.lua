@@ -44,6 +44,11 @@ local module = {
 		["NAme"] = "SPARK", -- Spark2
 		["Logo"] = "rbxassetid://86505758864124"
 	},
+
+	["6"] = {
+		["NAme"] = "CENTURY", -- Century
+		["Logo"] = "rbxassetid://112775820622767"
+	},
 	
 }
 
