@@ -1,6 +1,6 @@
 local module = {
 	
-	["Downtime"] = false,
+	["Downtime"] = true,
 	
 	["ExperienceDowntime"] = {
 		
