@@ -54,6 +54,11 @@ local module = {
 		["NAme"] = "AXION SUPPORT", -- AXION
 		["Logo"] = "rbxassetid://113419900995483"
 	},
+
+	["1163"] = {
+		["NAme"] = "INFRO F&S", -- AXION
+		["Logo"] = "rbxassetid://93438745411385"
+	},
 	
 }
 
