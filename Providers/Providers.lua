@@ -62,7 +62,7 @@ local module = {
 
 	["4364"] = {
 		["NAme"] = "EVERSAFE SYSTEMS", -- EVERSAFE
-		["Logo"] = "rbxassetid://71790917100388"
+		["Logo"] = "rbxassetid://93187620964005"
 	},
 	
 }
