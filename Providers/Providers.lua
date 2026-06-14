@@ -56,8 +56,13 @@ local module = {
 	},
 
 	["1163"] = {
-		["NAme"] = "INFRO F&S", -- AXION
+		["NAme"] = "INFRO F&S", -- INFRO
 		["Logo"] = "rbxassetid://131369153315192"
+	},
+
+	["1163"] = {
+		["NAme"] = "EVERSAFE SYSTEMS", -- EVERSAFE
+		["Logo"] = "rbxassetid://71790917100388"
 	},
 	
 }
